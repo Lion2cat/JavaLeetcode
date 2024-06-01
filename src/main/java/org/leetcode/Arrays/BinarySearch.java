@@ -1,4 +1,4 @@
-package org.leetcode.Basic;
+package org.leetcode.Arrays;
 
 public class BinarySearch {
     public static class Solution {
